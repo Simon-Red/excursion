@@ -1,0 +1,29 @@
+* {
+  background-color: black;
+  text-align: center;
+}
+h1 {
+  font-family: Verdena;
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+  text-align: center;
+}
+h2 {
+  font-family: Verdena;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+p {
+  font-family: Verdena;
+  font-size: 21px;
+  color: gray;
+}
+.aquamarine {
+  color: aquamarine;
+  font-size: 16px;
+}
+.right {
+  text-align: right;
+}
